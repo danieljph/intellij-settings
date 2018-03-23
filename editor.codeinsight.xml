@@ -4,6 +4,8 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
   </component>
 </application>
