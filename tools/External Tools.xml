@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="xxx" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="sh" />
+      <option name="PARAMETERS" value="env-qa.sh" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
