@@ -6,6 +6,10 @@
           <option name="url" value="http://git.ninjavan.co" />
           <option name="userName" value="daniel" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="danieljph" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
